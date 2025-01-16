@@ -110,7 +110,7 @@ var swiper = new Swiper(".blogs-row", {
         </div>
         <div class="client-info">
             <div class="img">
-                <img src="image/yuna-fotor-20241126161521.png" alt="Default User">
+                <img src="image/Pin by dimo pins on Avatar _ Gambar profil, Fotografi pemula, Seni jalanan 3d.jpg" alt="Default User">
             </div>
             <div class="clientDetailed">
                 <h3>${fullName}</h3>
